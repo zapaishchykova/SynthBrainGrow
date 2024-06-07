@@ -33,8 +33,12 @@ If you use this code, please cite the following paper:
 
 ## Work in progress
 This repository is a work in progress.
-[x] Add example notebook for inference
+[x] Add example notebook for inference and data processing
+[x] Add model weights
+[x] Add readme
+[x] Add example data
 [] Add example notebook for training
+[] Add more details on enviroment creation
 [] Create Docker container for easy deployment
 
 ## LICENSE: CC BY-NC 4.0
